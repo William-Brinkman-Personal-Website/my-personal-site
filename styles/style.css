@@ -17,13 +17,14 @@ nav ul {
 main {
     padding-top: 50px;
     padding-bottom: 50px;
-}
-
-main {
+    /* display: flex;
+    align-items: center; */
     max-width: 800 px;
     margin: 0 auto;
     padding: 20px;
 }
+
+
 
 main div {
     margin-bottom: 30px;
@@ -42,6 +43,7 @@ main h2 {
 main section img {
     max-width: 250px;
     margin-right: 10px;
+    border-radius: 10px;
 }
 main section p {
     line-height: 1.5;
