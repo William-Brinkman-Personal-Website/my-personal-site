@@ -14,9 +14,41 @@ nav ul {
     list-style: none;
 }
 
+main {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+main {
+    max-width: 800 px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main div {
+    margin-bottom: 30px;
+}
+
+main h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+main h2 {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
 .contact-icon {
     display: inline-block;
     margin-right: 10px;
+    margin-left: 25px;
   }
   
   .contact-icon a img {
