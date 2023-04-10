@@ -27,6 +27,7 @@ main {
 
 main div {
     margin-bottom: 30px;
+    line-height: 1.5;
 }
 
 main h1 {
@@ -36,6 +37,15 @@ main h1 {
 main h2 {
     font-size: 22px;
     margin-bottom: 15px;
+}
+
+main section img {
+    max-width: 250px;
+    margin-right: 10px;
+}
+main section p {
+    line-height: 1.5;
+
 }
 
 footer {
