@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(218, 99, 2);
+    z-index: 100;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.contact-icon {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .contact-icon a img {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+  }
