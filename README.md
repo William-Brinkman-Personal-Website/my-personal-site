@@ -19,7 +19,6 @@ You can find more information about these projects on the Projects page of this 
 Contact
 If you'd like to get in touch with me, you can reach me by phone or email:
 
-Phone: (314) 536-2139
 Email: willbkman@gmail.com
 You can also visit the Contact page of this website for more information.
 
